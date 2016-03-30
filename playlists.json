@@ -1,0 +1,9 @@
+{
+    "streams": {
+        "vhall": {
+            "input-path": "/vhall/120862104/index.m3u8",
+            "servers": ["http://cchlslivepc03.e.vhall.com"],
+            "bandwidth": 800082
+        }
+    }
+}
